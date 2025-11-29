@@ -1,7 +1,7 @@
 # data-engineering-zoomcamp-2026
-My hands-on implementation of [Data Engineering Zoomcamp 2026](https://github.com/DataTalksClub/data-engineering-zoomcamp) by [DataTalksClub](https://datatalks.club).
+My hands-on implementation of [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) by [DataTalksClub](https://datatalks.club).
 
-🎯 Learning Goals
+## 🎯 Learning Goals
 - Develop proficiency with modern data engineering tools
 
 - Build and deploy end-to-end data pipelines
